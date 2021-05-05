@@ -1,5 +1,5 @@
 # Credits
- I got this script from an AHK forum (I did not come up with the script), I only calculated and changed the timings and finally uploaded them.
+ I got this script from an AHK forum (I did not come up with the script), I only calculated and changed the timings and finally uploaded them. I cannot find the original AHK forum thread now.
 
 # PF Macros Autoclickers
  Autoclickers that help you spam guns in Phantom Forces
